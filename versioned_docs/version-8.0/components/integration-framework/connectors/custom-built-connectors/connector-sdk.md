@@ -98,7 +98,7 @@ my-connector
 ```
 
 For the modeling building blocks, the Connector provides
-[connector templates](./connector-templates.md) with **(1)**.
+[Connector templates](./connector-templates.md) with **(1)**.
 
 You provide the runtime logic as Java source code under a directory like **(2)**.
 Typically, a Connector runtime logic consists of the following:
