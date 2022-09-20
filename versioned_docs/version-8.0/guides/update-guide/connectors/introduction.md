@@ -1,6 +1,6 @@
 ---
 id: introduction
-title: Introduction
+title: Introduction Connector SDK updates
 ---
 
 These documents guide you through the process of updating your Camunda Platform 8
